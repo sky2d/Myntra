@@ -3,7 +3,7 @@ import NavBar from "./Components/NavBar";
 import OutfitMaker from "./Components/OutfitMaker";
 import { BrowserRouter , Routes , Route } from "react-router-dom";
 import Women from "./Components/Women/Women";
-import ProductInfo from "./Components/ProductInfo";
+import ProductInfo from "./Components/ProducInfo/ProductInfo";
 
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
         <Route path="/" element={<Home/>} />
           <Route path="/outfitmaker" element={<OutfitMaker />} />
         <Route path="/womensection" element={<Women/>} />
-        <Route path="/productinfo" element={<ProductInfo/>} />
+        <Route path="/productinfo/:id" element={<ProductInfo/>} />
       </Routes>
       </BrowserRouter>
       
