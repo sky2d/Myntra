@@ -42,7 +42,7 @@ const Post = () => {
         </div>
         <div className='m-3 flex flex-row gap-5'>
           <button className='p-0 m-0' onClick={handlelikechange}>
-            {likeState ? <FaHeart /> : <FaRegHeart />}
+            {likeState ? <FaHeart color='#FF3E6C'/> : <FaRegHeart />}
           </button>
           <FaRegComment />
           <FaRegShareFromSquare />
