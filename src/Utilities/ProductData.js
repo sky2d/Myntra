@@ -66,5 +66,71 @@ export const Products = [
         "discount": "10%",
         "product_title": "Ruffle Sleeve Crop Top",
         "sizes": ["XS", "S", "M", "L"]
-    }
+    },
+    {
+        "brand_name": "Fashionista",
+        "imgUrl": "https://assets.ajio.com/medias/sys_master/root/20230822/XTNP/64e3e63fafa4cf41f56653a3/-1117Wx1400H-466475944-blue-MODEL.jpg",
+        "product_type": "Crop Top",
+        "ratings": 4.3,
+        "current_price": 2199,
+        "original_price": 3199,
+        "discount": "10%",
+        "product_title": "Ruffle Sleeve Crop Top",
+        "sizes": ["XS", "S", "M", "L"]
+    },
+    {
+        "brand_name": "Fashionista",
+        "imgUrl": "https://m.media-amazon.com/images/I/71Dr401s4LL._SX679_.jpg",
+        "product_type": "Crop Top",
+        "ratings": 4.3,
+        "current_price": 2199,
+        "original_price": 3199,
+        "discount": "10%",
+        "product_title": "Ruffle Sleeve Crop Top",
+        "sizes": ["XS", "S", "M", "L"]
+    },
+    {
+        "brand_name": "Fashionista",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnXJ0iKd09thOUzrzhr1kl1TdkI80v2LpBeA&s",
+        "product_type": "Crop Top",
+        "ratings": 4.3,
+        "current_price": 2199,
+        "original_price": 3199,
+        "discount": "10%",
+        "product_title": "Ruffle Sleeve Crop Top",
+        "sizes": ["XS", "S", "M", "L"]
+    },
+    {
+        "brand_name": "Fashionista",
+        "imgUrl": "https://images.meesho.com/images/products/100946993/hqiqt_512.webp",
+        "product_type": "Crop Top",
+        "ratings": 4.3,
+        "current_price": 2199,
+        "original_price": 3199,
+        "discount": "10%",
+        "product_title": "Ruffle Sleeve Crop Top",
+        "sizes": ["XS", "S", "M", "L"]
+    },
+    {
+        "brand_name": "Fashionista",
+        "imgUrl": "https://images.meesho.com/images/products/257877442/gdvw8_512.webp",
+        "product_type": "Crop Top",
+        "ratings": 4.3,
+        "current_price": 2199,
+        "original_price": 3199,
+        "discount": "10%",
+        "product_title": "Ruffle Sleeve Crop Top",
+        "sizes": ["XS", "S", "M", "L"]
+    },
+    {
+        "brand_name": "Fashionista",
+        "imgUrl": "https://images.meesho.com/images/products/296716157/khprg_512.webp",
+        "product_type": "Crop Top",
+        "ratings": 4.3,
+        "current_price": 2199,
+        "original_price": 3199,
+        "discount": "10%",
+        "product_title": "Ruffle Sleeve Crop Top",
+        "sizes": ["XS", "S", "M", "L"]
+    },
 ]
